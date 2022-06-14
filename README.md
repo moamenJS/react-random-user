@@ -1,5 +1,5 @@
 # react-random-user
-
+link of my project: https://search-users.netlify.app/
 Create a page with a title “All users” with a table of users which will contain the following columns:
 Picture (circled icon)
 Full name (first letter of first name and last name)
